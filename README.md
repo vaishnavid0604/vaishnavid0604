@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vaishnavid0604.vaishnavid0604">
+
 # Heyy, Im Vaishnavi D..
 # 📊 Github Stats
 <a align="center" href='https://github.com/ab007shetty/github-stats'>
