@@ -15,3 +15,11 @@
 
 </a>
 <hr>
+
+<div>
+  
+
+ [![Github Stats By AB Shetty](https://github-readme-stats.vercel.app/api?username=vaishnavid0604&show_icons=true&hide_border=true&title_color=423&count_private=true&line_height=25&text_color=000&icon_color=fff&bg_color=345,52fa5a,4dfcff,c64dff&theme=graywhite)](https://vaishnavid0604.github.io/)
+
+</div>
+<hr>
