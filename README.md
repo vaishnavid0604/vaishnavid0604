@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vaishnavid0604.vaishnavid0604">
 
 # Heyy, Im Vaishnavi D..<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="68">
+[![](https://raw.githubusercontent.com/vaishnavid0604/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
 <div>
   
