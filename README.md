@@ -7,6 +7,7 @@
 
 </a>
 <hr>
+
 ## 🔥 Streak Stats
 <a align="center" href='https://github.com/vaishnavid0604/github-stats'>
 
